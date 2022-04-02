@@ -136,4 +136,4 @@ Atalho: Ctrl + J
 		git config --global user.email "seuemaildogithub@provedor.com"
 		git config --global core.editor vim
 		git config --global merge.tool vimdiff
-		git config --global color.ui true
+		
